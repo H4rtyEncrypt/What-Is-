@@ -1,0 +1,18 @@
+Pharming in short is a cyber attack that redirects users web traffic from what they thought was the real page to a fake one
+the fake page will then harvest user credentials for further social engineering attacks
+
+Malicious users do this by getting the victim to install malicious code, this code redirects victims from the legit website they typed into their url to a malicious page that normally looks identical to what they were trying to find
+
+for example if you were sitting at home, typed into your url "yourbank.com" then see a page that looks identical to the normal one you wouldn't even think twice
+this is much more effective than phishing for one reason, that is because THE VICTIM IS TYPING IN THE URL THEMSELVES so 9 times out of 10 they wont even think twice since they typed it in themself and not just from clicking some link they got sent in their email.
+
+How this works is something called "DNS CACHE POSIONING" this attack exploits vulnerabilities in the DNS to
+divert Internet traffic away from legitimate servers and towards fake ones
+
+The way to protect against this:
+Its all the same "look for https not http" this does not apply anymore, anyone can get a SSL certificate for their website infact all scammers do now lol just ignore anyone who tells you this
+
+I always tell a fake site apart from the real site by these three things:
+1. Different/Obscene url e.g Your-Bank.com.net/login.php where the legit one would look more like YourBank.com/User
+2. Buttons such as terms and services etc do not redirect you to any terms or services, normally when scamas (scam pages) are created the developer never bothers to think about creating pages for things such as terms and services, policy etc
+3. check how long ago the domain was registered, typically scam pages last no longer than 30 days so if your "banks" website was created less than 30 days ago, its most likely fake
